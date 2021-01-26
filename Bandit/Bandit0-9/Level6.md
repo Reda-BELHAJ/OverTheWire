@@ -1,7 +1,7 @@
 # Bandit Level 6
 ## Part I
 
-Properties given:
+#### Properties given:
 
 - Human-readable
 - 1033 bytes in size
