@@ -18,7 +18,7 @@ realpath readme
 ```
 
 ```bash
-# Exit the session than
+# Exit the session then
 scp -P 2220 bandit0@bandit.labs.overthewire.org:/home/bandit0/readme <LocalMachinePATH>
 # <LocalMachinePATH> : your temporary file to copy the ascii text
 # Password           : bandit0
