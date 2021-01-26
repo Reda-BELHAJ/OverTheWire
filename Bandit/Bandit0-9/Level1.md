@@ -18,6 +18,7 @@ realpath readme
 ```
 
 ```bash
+# Exit the session than
 scp -P 2220 bandit0@bandit.labs.overthewire.org:/home/bandit0/readme <LocalMachinePATH>
 # <LocalMachinePATH> : your temporary file to copy the ascii text
 # Password           : bandit0
@@ -28,7 +29,7 @@ We are using realpath and [scp commands](https://linuxize.com/post/how-to-use-sc
 
 The ***host*** to which you need to connect is *bandit.labs.overthewire.org*, on ***port*** 2220. The ***username*** is *bandit1* and the ***password*** is the text from readme [Part 1](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Bandit/Bandit0-9/Level1.md#part-i). 
 
-1. Enter the following command in your Terminal/ CMD/ PowerShell/ Cygwin Terminal /... :  
+1. Enter the following command:  
 
 ```bash
 	ssh bandit.labs.overthewire.org -p 2220 -l bandit1
