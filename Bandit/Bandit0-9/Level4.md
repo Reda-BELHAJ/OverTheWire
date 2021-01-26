@@ -3,12 +3,12 @@
 
 Enter the following command in your Terminal :  
 ```bash
-    cd inhere/
+    	cd inhere/
+        # change the working directory to inhere/
 ```
 ```bash
-    # change the working directory to inhere/
-    ls -la
-    cat .hidden
+    	ls -la
+   	cat .hidden
 ```
 and copy the text to your clipboard (or try [the scp Method](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Bandit/Bandit0-9/Level1.md#part-i)).
 
