@@ -9,6 +9,7 @@ Enter the following command in your Terminal :
 ```bash
       ls -la
       # there's 10 files and the one who store the password is "-file07" (the lenght of the key)
+      # if your terminal is messed up, try the "reset" command.
       cat < -file07
 ```
 and copy the text to your clipboard (or try [the scp Method](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Bandit/Bandit0-9/Level1.md#part-i)).
