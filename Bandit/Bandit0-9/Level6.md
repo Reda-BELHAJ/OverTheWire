@@ -1,6 +1,12 @@
 # Bandit Level 6
 ## Part I
 
+Properties given:
+
+- Human-readable
+- 1033 bytes in size
+- Not executable
+
 Enter the following command in your Terminal :  
 ```bash
     cd inhere/
