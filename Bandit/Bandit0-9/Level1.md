@@ -26,7 +26,7 @@ We are using realpath and [scp commands](https://linuxize.com/post/how-to-use-sc
 
 ## Part II
 
-The ***host*** to which you need to connect is *bandit.labs.overthewire.org*, on ***port*** 2220. The ***username*** is *bandit1* and the ***password*** is the text from [level 1](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Bandit/Bandit0-9/Level1.md#Part II). 
+The ***host*** to which you need to connect is *bandit.labs.overthewire.org*, on ***port*** 2220. The ***username*** is *bandit1* and the ***password*** is the text from [level 1](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Bandit/Bandit0-9/Level1.md#part-ii). 
 
 1. Enter the following command in your Terminal/ CMD/ PowerShell/ Cygwin Terminal /... :  
 
