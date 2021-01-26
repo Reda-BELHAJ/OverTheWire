@@ -6,7 +6,7 @@ Enter the following command in your Terminal :
 
 ```bash
 ls -la
-# List  information  about  the  FILEs with the author of each file and also without ignoring entries (files) starting with .
+# List information about the FILEs with the author of each file and also without ignoring entries (files) starting with .
 ```
 ```bash
 cat readme
