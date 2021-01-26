@@ -3,7 +3,7 @@
 
 Enter the following command in your Terminal :  
 ```bash
-    cat < -
+	cat < -
 ```
 and copy the text to your clipboard (or try [the scp Method](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Bandit/Bandit0-9/Level1.md#part-i)).
 
