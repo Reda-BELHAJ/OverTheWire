@@ -1,5 +1,7 @@
 # Bandit Level 1
 
+## Part I
+
 Enter the following command in your Terminal :  
 
 ```bash
@@ -21,3 +23,16 @@ scp -P 2220 bandit0@bandit.labs.overthewire.org:/home/bandit0/readme <LocalMachi
 # Password           : bandit0
 ```
 We are using realpath and [scp commands](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) to copy ***readme*** file from OTW server to our Machine, and using it for the next Level.
+
+## Part II
+
+The ***host*** to which you need to connect is *bandit.labs.overthewire.org*, on ***port*** 2220. The ***username*** is *bandit1* and the ***password*** is the text from [level 1](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Bandit/Bandit0-9/Level1.md#Part II). 
+
+1. Enter the following command in your Terminal/ CMD/ PowerShell/ Cygwin Terminal /... :  
+
+```bash
+	ssh bandit.labs.overthewire.org -p 2220 -l bandit1
+	# OR ssh bandit1@bandit.labs.overthewire.org -p 2220
+	# password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+```
+2. Enter the password as shown in the comment of bash.
