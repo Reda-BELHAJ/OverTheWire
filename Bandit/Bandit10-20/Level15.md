@@ -13,7 +13,7 @@ And copy the text to your clipboard (or try [the scp Method](https://github.com/
 Enter the following command:  
 
 ```bash
-	telnet 127.0.0.1 30000
+    telnet 127.0.0.1 30000
     # Paste the password 
     # Correct!
     # BfMYroe26WYalil77FoDi9qh59eK5xNr
