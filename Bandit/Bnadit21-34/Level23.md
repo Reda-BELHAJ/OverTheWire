@@ -12,7 +12,7 @@
     ls -la
     cat cronjob_bandit23
     # @reboot bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
-    # * * * * * bandit22 /usr/bin/cronjob_bandit23.sh &> /dev/null
+    # * * * * * bandit23 /usr/bin/cronjob_bandit23.sh &> /dev/null
     cat /usr/bin/cronjob_bandit23.sh
     # We see a pretty simple shell Lets run it
     /usr/bin/cronjob_bandit23.sh
