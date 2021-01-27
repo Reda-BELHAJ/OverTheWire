@@ -2,8 +2,8 @@
 ## Part I
 
 ```bash
-    mkdir /tmp/reda5
-    cd /tmp/reda5
+    mkdir /tmp/reda4
+    cd /tmp/reda4
     git clone ssh://bandit27-git@localhost/home/bandit27-git/repo
     # Paste 3ba3118a22e93127a4ed485be72ef5ea
     cd repo
