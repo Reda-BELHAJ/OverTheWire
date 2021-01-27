@@ -12,7 +12,6 @@
 ```
 ```bash
     openssl s_client -quiet -connect 127.0.0.1:31790
-    ssh -i rsakey_private bandit17@localhost
     # Paste the password 
     # Correct!
     # -----BEGIN RSA PRIVATE KEY-----
