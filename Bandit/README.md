@@ -1,4 +1,4 @@
-# The Bandit wargame
+# The Bandit Wargame
 
 <p align="center">
   <img src="https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Bandit/overthewire_poster.jpg" />
