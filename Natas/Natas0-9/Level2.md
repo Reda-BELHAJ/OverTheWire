@@ -8,7 +8,7 @@ The ***URL*** to which you need to connect is *http://natas2.natas.labs.overthew
 <img src="files/pixel.png">
 ```
 
-2. Lets see files folder : http://natas2.natas.labs.overthewire.org/files/
+2. Lets see the folder "files" : http://natas2.natas.labs.overthewire.org/files/
 3. Go to : http://natas2.natas.labs.overthewire.org/files/users.txt
 ```
 natas3:sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
