@@ -13,3 +13,6 @@ User-agent: *
 Disallow: /s3cr3t/
 ```
 2. Lets check the folder that we got: http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt
+```
+natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
+```
