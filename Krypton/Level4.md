@@ -61,7 +61,7 @@ Plaintext     : B O I H G K N Q V T W Y U R X Z A J E M S L D F P C
 cat krypton4 | tr "A-Z" "BOIHGKNQVTWYURXZAJEMSLDFPC"
 #WELLD ONETH ELEVE LFOUR PASSW ORDIS BRUTE
 ```
-Try to use the online tool [quipqiup](https://www.quipqiup.com/) to figure out the text in each found$i file.
+Try to use the online tool [quipqiup](https://www.quipqiup.com/) to figure out the text in each found$i file. (or the key file like in the capture.)
 ![Capture](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Krypton/Capture.PNG)
 
 ## Part II
