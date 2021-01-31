@@ -51,7 +51,7 @@ python frequency.py found1 found2 found3
 # Counter({' ': 704, 'S': 456, 'Q': 340, 'J': 301, 'U': 257, 'B': 246, 'N': 240, 'C': 227, 'G': 227, 'D': 210, 'Z': 132, 'V': 130, 'W': 129, 'M': 86, 'Y': 84, 'T': 75, 'X': 71, 'K': 67, 'E': 64, 'L': 60, 'A': 55, 'F': 28, 'I': 19, 'O': 12, 'H': 4, 'R': 4, 'P': 2})
 ```
 
-![FrequencyLetters](https://inventwithpython.com/hacking/chapter20_files/image003.png)
+![FrequencyLetters](https://www.101computing.net/wp/wp-content/uploads/frequency-analysis-english-language.png)
 
 ```
 Ciphertext    : A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
