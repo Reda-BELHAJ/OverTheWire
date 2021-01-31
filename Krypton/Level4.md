@@ -61,6 +61,8 @@ Plaintext     : B O I H G K N Q V T W Y U R X Z A J E M S L D F P C
 cat krypton4 | tr "A-Z" "BOIHGKNQVTWYURXZAJEMSLDFPC"
 #WELLD ONETH ELEVE LFOUR PASSW ORDIS BRUTE
 ```
+Try to use the online tool [quipqiup](https://www.quipqiup.com/) to figure out the text in each found$i file.
+
 ## Part II
 The ***host*** to which you need to connect is *krypton.labs.overthewire.org*, on ***port*** 2231. The ***username*** is *krypton4* and the ***password*** is the text from your clipboard [Part 1](https://github.com/Reda-BELHAJ/OverTheWire/edit/main/Krypton/Level3.md#part-i).
 ```bash
