@@ -65,7 +65,7 @@ Try to use the online tool [quipqiup](https://www.quipqiup.com/) to figure out t
 ![Capture](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Krypton/Capture.PNG)
 
 ## Part II
-The ***host*** to which you need to connect is *krypton.labs.overthewire.org*, on ***port*** 2231. The ***username*** is *krypton4* and the ***password*** is the text from your clipboard [Part 1](https://github.com/Reda-BELHAJ/OverTheWire/edit/main/Krypton/Level3.md#part-i).
+The ***host*** to which you need to connect is *krypton.labs.overthewire.org*, on ***port*** 2231. The ***username*** is *krypton4* and the ***password*** is the text from your clipboard [Part 1](https://github.com/Reda-BELHAJ/OverTheWire/edit/main/Krypton/Level4.md#part-i).
 ```bash
 ssh krypton.labs.overthewire.org -p 2231 -l krypton4
 # OR ssh krypton4@krypton.labs.overthewire.org -p 2231
