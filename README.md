@@ -1,4 +1,4 @@
-# OverTheWire
+# OverTheWire Write-Up
 
 ```
           ,----..            ,----,          .---.
