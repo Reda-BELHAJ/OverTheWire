@@ -18,6 +18,9 @@
 
 I have provided my approach to solving OverTheWire Wargames here to help others through the problems. I would love your feedback and questions on my thought process.
 
+The [wargames](https://overthewire.org/wargames/) offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+To find out more about a certain wargame, just visit its page linked from the menu on the left.
+
 ## Table of contents:
 
 - [Bandit](https://github.com/Reda-BELHAJ/OverTheWire/tree/main/Bandit)
