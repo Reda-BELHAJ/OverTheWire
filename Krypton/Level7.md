@@ -1,5 +1,4 @@
 # Krypton Level 7
-## Part I
 Enter the following command in your Terminal :
 
 ```bash
@@ -44,10 +43,6 @@ KEY : EICTDGYIYZKTHNSIRFXYCPFUEOCKRN
 ```
 ![Capture](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Krypton/Captures/Capture4.PNG)
 
-## Part II
-The ***host*** to which you need to connect is *krypton.labs.overthewire.org*, on ***port*** 2231. The ***username*** is *krypton7* and the ***password*** is the text from your clipboard [Part 1](https://github.com/Reda-BELHAJ/OverTheWire/edit/main/Krypton/Level7.md#part-i).
 ```bash
-ssh krypton.labs.overthewire.org -p 2231 -l krypton7
-# OR ssh krypton7@krypton.labs.overthewire.org -p 2231
-# password: LFSRISNOTRANDOM
+Password: LFSRISNOTRANDOM
 ```
