@@ -62,7 +62,7 @@ cat krypton4 | tr "A-Z" "BOIHGKNQVTWYURXZAJEMSLDFPC"
 #WELLD ONETH ELEVE LFOUR PASSW ORDIS BRUTE
 ```
 Try to use the online tool [quipqiup](https://www.quipqiup.com/) to figure out the text in each found$i file. (or the key file like in the capture.)
-![Capture](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Krypton/Capture.PNG)
+![Capture](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Krypton/Captures/Capture.PNG)
 
 ## Part II
 The ***host*** to which you need to connect is *krypton.labs.overthewire.org*, on ***port*** 2231. The ***username*** is *krypton4* and the ***password*** is the text from your clipboard [Part 1](https://github.com/Reda-BELHAJ/OverTheWire/edit/main/Krypton/Level4.md#part-i).
