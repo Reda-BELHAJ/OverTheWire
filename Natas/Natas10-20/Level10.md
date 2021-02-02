@@ -1,7 +1,7 @@
 # Natas Level 10
 The ***URL*** to which you need to connect is *http://natas10.natas.labs.overthewire.org*. The ***username*** is *natas10* and the ***password*** is *nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu*. 
 
-Lets check the [viewsource](http://natas9.natas.labs.overthewire.org/index-source.html) link.
+Lets check the [viewsource](http://natas10.natas.labs.overthewire.org/index-source.html) link.
 ```php
 <?
 $key = "";
