@@ -16,6 +16,10 @@ if($key != "") {
 ?>
 ```
 By analysing the php script we see that the filter is not being sanitize. Therefore, we can inject additional commands like "ls" 
+##### Mark 
+
+
+>When I enter "*" in the input I receive the index-source.html if you know why please let me know.
 
 ```
 ;pwd
