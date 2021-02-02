@@ -1,7 +1,7 @@
 # Natas Level 5
 The ***URL*** to which you need to connect is *http://natas5.natas.labs.overthewire.org*. The ***username*** is *natas5* and the ***password*** is *iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq*. 
 
-1. press Ctrl+U (PC) or ⌥ Option + ⌘ Command + U (Mac) to display the source code. (view-source:http://natas4.natas.labs.overthewire.org/)
+1. press Ctrl+U (PC) or ⌥ Option + ⌘ Command + U (Mac) to display the source code. (view-source:http://natas5.natas.labs.overthewire.org/)
 ```
 Access disallowed. You are not logged in
 ```
