@@ -7,7 +7,7 @@ Access disallowed. You are not logged in
 ```
 
 So we have to change the value (status) of a cookie, Lets try to capture the request using [Burp Suite](https://portswigger.net/burp) and change the referer
-![Capture Burp](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Natas/Captures/Capture1.PNG)
+![Capture Burp](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Natas/Captures/Capture.PNG)
 
 ```
 Cookie: loggedin=1
