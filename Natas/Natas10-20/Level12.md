@@ -58,5 +58,5 @@ Lets upload script.php
 ![Capture](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Natas/Captures/Capture5.PNG)
 
 ```
-The password for natas12 is jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
+The password for natas13 is jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
 ```
